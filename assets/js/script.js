@@ -31,8 +31,15 @@ function startGame() {
 }
 // The winGame function is called when the win condition is met
 function winGame() {}
+if (){
+
+}
 // The loseGame function is called when timer reaches 0
 function loseGame() {}
+if (timerElement = 0){
+  wordBlank.textContent = ("Game Over"); 
+}
+
 // The setTimer function starts and stops the timer and triggers winGame() and loseGame()
 function startTimer() {
   // Sets timer
